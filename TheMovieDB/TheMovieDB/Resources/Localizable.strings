@@ -1,0 +1,20 @@
+/* 
+ Localizable.strings
+ TheMovieDB
+ 
+ Created by Peter Sorial on 11/13/18.
+ Copyright © 2018 NEUGELB STUDIOS. All rights reserved.
+ */
+
+// MARK: - BaseViewController titles
+
+"view_controller_title_latest_movies"="Latest Movies";
+
+// MARK: - Labels text
+
+"label_text_rating_value"="%.1f/10 (%d votes)";
+"label_text_overview"="Overview";
+
+// MARK: - Placeholders
+
+"placholder_search_movies"="Enter movie name";

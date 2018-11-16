@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.7.3)
+  - FontAwesome.swift (1.4.6)
+  - IQKeyboardManagerSwift (6.2.0)
+  - Kingfisher (4.8.1)
+  - UIColor_Hex_Swift (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7.3)
+  - FontAwesome.swift (~> 1.4.5)
+  - IQKeyboardManagerSwift (~> 6.2.0)
+  - Kingfisher (~> 4.8.1)
+  - UIColor_Hex_Swift (~> 4.2.0)
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  FontAwesome.swift: 18fb500c0decc2bbfadf2ae16a936704ec2c49bd
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  Kingfisher: 868c1149679a7ab6869be118faa9b5aed154aaf0
+  UIColor_Hex_Swift: bc07fc197421ee896b9ed6dcfa2054b7fbf75145
+
+PODFILE CHECKSUM: 75fcff9669d4e4a6ad1808027e6628889d6e005a
+
+COCOAPODS: 1.4.0
